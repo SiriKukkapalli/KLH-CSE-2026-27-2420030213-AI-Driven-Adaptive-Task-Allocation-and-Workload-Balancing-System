@@ -92,10 +92,15 @@ Future Enhancements
 - Cloud-based deployment
 - Mobile application support
 Project Team
+
 S. No. University ID Name
+
 1 2420030102 K. Mounika
+  
 2 2420030104 P. Manogna
+
 3 2420030213 K. Siri
+
 Guide: RAJKUMAR PATIL
 
 Academic Information
