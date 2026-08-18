@@ -97,6 +97,7 @@ S. No. University ID Name
 2 2420030104 P. Manogna
 3 2420030213 K. Siri
 Guide: RAJKUMAR PATIL
+
 Academic Information
 Course: Engineering Capstone Project – 1 (24CI3201)
 Academic Year: 2026–2027
